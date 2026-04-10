@@ -11,8 +11,6 @@ jobs:
             pull-requests: write
         steps:
             - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v4
-              env:
-                  token: ${{ secrets.GITHUB_TOKEN }}
 
             - uses: Songmu/tagpr@9d0f650553240dab1fa907eca27e3fd5b586e538 # v1
               id: tagpr
