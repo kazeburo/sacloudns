@@ -12,13 +12,5 @@ sacloudns: main.go
 linux: main.go
 	GOOS=linux GOARCH=linux go build $(LDFLAGS) -o sacloudns
 
-clean:
-	rm -rf sacloudns
-
 check:
 	go test ./...
-
-tag:
-	git tag v${VERSION}
-	git push origin v${VERSION}
-	git push origin main
