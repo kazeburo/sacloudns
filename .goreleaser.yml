@@ -17,10 +17,9 @@ release:
     name: sacloudns
 brews:
   - description: "increments version (git tag) numbers simply"
-    tap:
+    repository:
       owner: kazeburo
       name: homebrew-tap
     homepage: "https://github.com/kazeburo/sacloudns"
     install: |
       bin.install "sacloudns"
-  
