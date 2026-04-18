@@ -1,6 +1,6 @@
 module github.com/kazeburo/sacloudns
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/jessevdk/go-flags v1.6.1
