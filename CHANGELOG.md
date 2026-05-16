@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.8](https://github.com/kazeburo/sacloudns/compare/v0.0.7...v0.0.8) - 2026-05-16
+- ci: bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/13
+
 ## [v0.0.7](https://github.com/kazeburo/sacloudns/compare/v0.0.6...v0.0.7) - 2026-04-18
 - update dependecies and tagpr release by @kazeburo in https://github.com/kazeburo/sacloudns/pull/5
 - ci: bump Songmu/tagpr from 1.18.1 to 1.18.3 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/7
