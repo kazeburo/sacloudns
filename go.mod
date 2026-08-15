@@ -20,7 +20,7 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.8 // indirect
 	github.com/leodido/go-urn v1.5.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/sacloud/go-http v0.1.9 // indirect
+	github.com/sacloud/go-http v0.1.10 // indirect
 	go.uber.org/ratelimit v0.3.1 // indirect
 	golang.org/x/crypto v0.54.0 // indirect
 	golang.org/x/mod v0.38.0 // indirect
