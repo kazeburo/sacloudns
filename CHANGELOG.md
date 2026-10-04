@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.0.9](https://github.com/kazeburo/sacloudns/compare/v0.0.8...v0.0.9) - 2026-10-04
+
+- ci: bump the dependencies group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/19
+- Change Dependabot update schedule to weekly by @kazeburo in https://github.com/kazeburo/sacloudns/pull/21
+- go: bump the dependencies group with 8 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/22
+- go: bump the dependencies group across 1 directory with 6 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/24
+- go: bump the dependencies group across 1 directory with 8 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/27
+- ci: bump the dependencies group with 3 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/26
+- ci: bump Songmu/tagpr from 1.20.1 to 1.20.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/31
+- go: bump the dependencies group across 1 directory with 8 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/33
+
 ## [v0.0.8](https://github.com/kazeburo/sacloudns/compare/v0.0.7...v0.0.8) - 2026-06-01
 - ci: bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/13
 - ci: bump goreleaser/goreleaser-action from 7.2.1 to 7.2.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/15
