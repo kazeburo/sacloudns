@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.0.10](https://github.com/kazeburo/sacloudns/compare/v0.0.9...v0.0.10) - 2026-10-17
+
+- ci: bump Songmu/tagpr from 1.20.2 to 1.21.1 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/34
+- go: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/35
+- ci: bump Songmu/tagpr from 1.21.1 to 1.21.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/38
+- go: bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/37
+
 ## [v0.0.9](https://github.com/kazeburo/sacloudns/compare/v0.0.8...v0.0.9) - 2026-10-04
 
 - ci: bump the dependencies group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/19
