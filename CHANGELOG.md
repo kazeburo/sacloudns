@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.0.10](https://github.com/kazeburo/sacloudns/compare/v0.0.9...v0.0.10) - 2026-10-31
+
+- ci: bump Songmu/tagpr from 1.20.2 to 1.21.1 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/34
+- go: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/35
+- ci: bump Songmu/tagpr from 1.21.1 to 1.21.2 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/38
+- go: bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/37
+- ci: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/40
+- go: bump golang.org/x/net from 0.60.0 to 0.61.0 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/39
+- ci: bump Songmu/tagpr from 1.21.3 to 1.21.4 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/41
+- go: bump github.com/gabriel-vasile/mimetype from 1.4.15 to 1.4.16 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/42
+
 ## [v0.0.9](https://github.com/kazeburo/sacloudns/compare/v0.0.8...v0.0.9) - 2026-10-04
 
 - ci: bump the dependencies group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/kazeburo/sacloudns/pull/19
